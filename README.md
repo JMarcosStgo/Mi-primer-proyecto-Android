@@ -1,3 +1,4 @@
 # Mi-primer-proyecto-Android
-proyecto Coursera
-:)
+proyecto Coursera:) 
+todo bien, todo correcto xd
+
